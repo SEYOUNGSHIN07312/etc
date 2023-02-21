@@ -175,7 +175,7 @@
 #175 Possible
 #176 Impossible
 #177 Possible
-#178 Possible
+#178 Impossible
 #179 Possible
 #180 Impossible
 #181 Possible
@@ -265,7 +265,7 @@
 #265 Possible
 #266 Impossible
 #267 Possible
-#268 Possible
+#268 Impossible
 #269 Possible
 #270 Impossible
 #271 Impossible
@@ -385,7 +385,7 @@
 #385 Impossible
 #386 Impossible
 #387 Possible
-#388 Possible
+#388 Impossible
 #389 Possible
 #390 Possible
 #391 Impossible
@@ -674,7 +674,7 @@
 #674 Possible
 #675 Possible
 #676 Impossible
-#677 Possible
+#677 Impossible
 #678 Impossible
 #679 Impossible
 #680 Possible
@@ -813,7 +813,7 @@
 #813 Impossible
 #814 Possible
 #815 Impossible
-#816 Possible
+#816 Impossible
 #817 Possible
 #818 Impossible
 #819 Possible
@@ -981,7 +981,7 @@
 #981 Impossible
 #982 Possible
 #983 Possible
-#984 Possible
+#984 Impossible
 #985 Impossible
 #986 Possible
 #987 Possible
@@ -995,6 +995,6 @@
 #995 Possible
 #996 Impossible
 #997 Possible
-#998 Possible
+#998 Impossible
 #999 Impossible
 #1000 Impossible
