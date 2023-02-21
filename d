@@ -203,7 +203,7 @@
 #203 Impossible
 #204 Possible
 #205 Impossible
-#206 Impossible
+#206 Possible
 #207 Impossible
 #208 Possible
 #209 Impossible
@@ -233,8 +233,8 @@
 #233 Impossible
 #234 Impossible
 #235 Impossible
-#236 Impossible
-#237 Impossible
+#236 Possible
+#237 Possible
 #238 Impossible
 #239 Possible
 #240 Impossible
@@ -312,7 +312,7 @@
 #312 Impossible
 #313 Possible
 #314 Possible
-#315 Impossible
+#315 Possible
 #316 Possible
 #317 Possible
 #318 Impossible
@@ -440,7 +440,7 @@
 #440 Impossible
 #441 Impossible
 #442 Impossible
-#443 Impossible
+#443 Possible
 #444 Possible
 #445 Impossible
 #446 Impossible
@@ -601,12 +601,12 @@
 #601 Impossible
 #602 Impossible
 #603 Possible
-#604 Impossible
+#604 Possible
 #605 Possible
 #606 Impossible
 #607 Impossible
 #608 Impossible
-#609 Impossible
+#609 Possible
 #610 Impossible
 #611 Impossible
 #612 Impossible
